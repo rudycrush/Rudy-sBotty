@@ -1,2 +1,2 @@
-# Rudy-sBotty
+# rudysbotty
 My Discord Bot
